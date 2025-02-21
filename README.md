@@ -1,6 +1,6 @@
-# Distributed Systems Project
+# International Distributed Systems Corporation (IDSC)
 
-A platform for building and deploying autonomous AI agents that work together. Our agents communicate, learn, and adapt through natural language interactions.
+Hi! I'm Arthur, the founder of IDSC. Distributed Systems is a platform built by IDSC to enable 1 person billion dollar companies. I built a platform for building and deploying autonomous AI agents that work together. Our agents communicate, learn, and adapt through natural language interactions.
 
 ![Landing Page](idsc.png)
 
@@ -11,7 +11,7 @@ A platform for building and deploying autonomous AI agents that work together. O
 - Scale seamlessly from prototype to production with enterprise-grade infrastructure
 
 ## Infrastructure
-- 10,000+ Available H100s
+- 18+ H100 GPUs!
 - 400Gb/s Network Speed
 - 1,250+ Node Count
 - 99.99% Availability
