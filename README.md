@@ -2,6 +2,8 @@
 
 A platform for building and deploying autonomous AI agents that work together. Our agents communicate, learn, and adapt through natural language interactions.
 
+![Landing Page](idsc.png)
+
 ## Key Features
 - Build AI systems that evolve through continuous learning and real-world experience
 - Create teams of specialized agents that collaborate to solve complex challenges
